@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20Opera_tive%20%20&height=200&fontSize=100)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabariana&show_icons=true&theme=radical)](https://github.com/kabariana/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabariana&show_icons=true&theme=synthwave)](https://github.com/kabariana/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabariana&layout=compact)](https://github.com/kabariana/github-readme-stats)
 <!--
 **kabariana/kabariana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
