@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20Opera_tive%20%20&height=200&fontSize=100)
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=opera_tive)](https://solved.ac/opera_tive)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=opera_tive)](https://solved.ac/opera_tive)
+[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=opera_tive)](https://solved.ac/opera_tive)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabariana&show_icons=true&theme=tokyonight)](https://github.com/kabariana/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabariana&layout=compact)](https://github.com/kabariana/github-readme-stats)
 <!--
 **kabariana/kabariana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
