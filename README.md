@@ -2,6 +2,9 @@
 
 - Warframe(Digital Extremes, London, Ontario, Canada) English-Korean Translator and also Community Manager :      ~ 
 - Naver Expert(C, C++) : 2021.03.09 ~
+
+
+
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=opera_tive)](https://solved.ac/opera_tive)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabariana&show_icons=true&theme=tokyonight)](https://github.com/kabariana/github-readme-stats)
