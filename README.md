@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20Opera_tive%20%20&height=200&fontSize=100)
 
-- Warframe(Digital Extremes, London, Ontario, Canada) English-Korean Translator and also Community Manager : 2014.04 ~ 2018. 07 
+- Warframe(Digital Extremes, London, Ontario, Canada) English-Korean Translator and also Community Manager : 2015.04 ~ 2019. 03 
 - Naver Expert(C, C++ Section) : 2021.03.09 ~
 
 
